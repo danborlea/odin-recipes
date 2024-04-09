@@ -1,0 +1,20 @@
+body {
+     background-color: rgba(138, 138, 133, 0.483); 
+     margin-left:center;
+     
+}
+#Odin {
+    color:rgb(58, 58, 58);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: italic;
+    font-size: 400%;
+    
+}
+.links{
+    display: grid;
+    font-size: xx-large;
+    height: 150px;
+    
+}
+

@@ -1,0 +1,22 @@
+body {
+    background-color:rgba(138, 138, 133, 0.483);
+}
+#Pizza{
+    color:rgb(58, 58, 58);
+    text-align: center;
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#Description{
+    color:rgb(58, 58, 58);
+}
+#Ingredients{
+    color:rgb(58, 58, 58);
+}
+#How{
+    color:rgb(58, 58, 58);
+}
+.image{
+    image-orientation: flip;
+}
